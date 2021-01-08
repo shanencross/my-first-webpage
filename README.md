@@ -18,8 +18,8 @@ This folder contains 2 .html files, and a sub-folder that contains assets, to wh
 ## How To Download And View
 
 The only requirement to download and view my project is to have an internet browser installed.
-* (1). Copy this URL: https://github.com/CodeJA91/my-first-webpage/archive/main.zip
-* (2). Paste it into your preferred web browser's address bar, after which,
+* (1). click or Copy this URL: https://github.com/CodeJA91/my-first-webpage/archive/main.zip
+* (2). If it hasn't begun downloading, Paste the URL into your preferred web browser's address bar, after which,
 the download should start automatically.
 * (3). Extract the contents of the now downloaded .zip onto any location on your computer, then navigate and open the folder: "my-first-webpage-main"
 * (4). Select and right-click "my-first-webpage.html"
