@@ -9,10 +9,14 @@ h2 {
 }
 
 p {
-	font-family: sans-serif;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 ul {
 	font-size: 20px;
 	line-height: 30px;
+}
+
+ol {
+	font-style:italic;
 }
